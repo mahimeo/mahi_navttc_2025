@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+ border: 1px solid orange; 
+  padding: 15px;
+  background-color: orange; 
+width: 500px;
+margin: auto;
+border-radius: 10px;
+}
+section{
+    border-bottom: 10px solid pink;
+    border-radius: 10px;
+    
+}
+img{
+    border-radius: 50px;
+}
+body{
+    background-color: antiquewhite;
+}
